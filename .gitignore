@@ -1,0 +1,6 @@
+bin/
+*.exe
+config.json
+*.log
+.idea/
+.vscode/
